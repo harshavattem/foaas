@@ -1,4 +1,4 @@
-# FOAAS
+# FOAAS (Fuck Off As A Service)
 
 *May 2020 - v2.1.1*
 
